@@ -151,8 +151,11 @@ The script has a built-in SSL certificate application function. To use this scri
 - The domain name has been resolved to the current server through cloudflare
 
 How to get the Cloudflare Global API Key:
+
   1- After login to cloudflare go to [https://dash.cloudflare.com/profile/api-tokens](https://dash.cloudflare.com/profile/api-tokens) 
+  
   2- Click on view as shown below
+  
   ![photo_2022-11-16_16-14-20](https://user-images.githubusercontent.com/20362833/202185065-0646b2c8-e401-4169-a98e-619d3dd5e5c8.jpg)
 
 When using, just enter `email`, `domain`, `API KEY` and the schematic diagram is as follows：
